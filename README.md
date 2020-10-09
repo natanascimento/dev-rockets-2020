@@ -218,7 +218,7 @@ Caso possua interesse em realizar os treinamentos dos módulos citados acima, pr
 
 <div align="center">
     <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=eW9OrsPecE6YxrenYkICn2hZ6yXbyepJq2whJp5oUQpUMVIxQU5INVVaRzlUOTRLTTJGTTNTNEFGNS4u" target="_blank">
-        <img src="https://i.imgur.com/GfR3IXu.png" title="Inscrição Programa de Treinamentos" />
+        <img src="https://i.imgur.com/GfR3IXu.png" title="Inscrição Programa de Treinamentos" width="100" height="100" />
     </a>
 </div>
 
