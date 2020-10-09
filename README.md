@@ -211,11 +211,17 @@ Apenas os módulos citado abaixo serão liberados para treinamento aberto intern
 - **Módulo 5️⃣**
 - **Módulo 7️⃣**
 
-Caso possua interesse em realizar o treinamento dos módulos citados acima, preencha o formulário abaixo para efetivar sua inscrição no Programa de Treinamento.
+Caso possua interesse em realizar os treinamentos dos módulos citados acima, preencha o formulário abaixo para efetivar sua inscrição no Programa de Treinamento em Desenvolvimento.
 
 </br>
 
-<iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=eW9OrsPecE6YxrenYkICn2hZ6yXbyepJq2whJp5oUQpUMVIxQU5INVVaRzlUOTRLTTJGTTNTNEFGNS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+
+<div align="center">
+    <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=eW9OrsPecE6YxrenYkICn2hZ6yXbyepJq2whJp5oUQpUMVIxQU5INVVaRzlUOTRLTTJGTTNTNEFGNS4u">
+        <img src="https://i.imgur.com/p9LOTkx.png" title="source: imgur.com" />
+    </a>
+</div>
+
 
 </br>
 
