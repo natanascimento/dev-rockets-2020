@@ -205,7 +205,7 @@ Os conteúdos informados anteriormente terão como propósito a explanação das
 </br>
 
 # **Módulos Públicos** 📋
-Apenas os módulos citado abaixo serão liberados para treinamento aberto interno:
+Apenas os módulos citado abaixo serão liberados para treinamento interno:
 
 - **Módulo 3️⃣ - Cultura de Desenvolvimento**
 - **Módulo 5️⃣ - Programa Cisco DevNet**
@@ -221,7 +221,6 @@ Caso possua interesse em realizar os treinamentos dos módulos citados acima, pr
         <img src="https://i.imgur.com/GfR3IXu.png" title="Inscrição Programa de Treinamentos" width="100" height="100" />
     </a>
 </div>
-
 
 </br>
 
