@@ -207,9 +207,9 @@ Os conteúdos informados anteriormente terão como propósito a explanação das
 # **Módulos Públicos** 📋
 Apenas os módulos citado abaixo serão liberados para treinamento aberto interno:
 
-- **Módulo 3️⃣**
-- **Módulo 5️⃣**
-- **Módulo 7️⃣**
+- **Módulo 3️⃣ - Cultura de Desenvolvimento**
+- **Módulo 5️⃣ - Programa Cisco DevNet**
+- **Módulo 7️⃣ - DevOps**
 
 Caso possua interesse em realizar os treinamentos dos módulos citados acima, preencha o formulário abaixo para efetivar sua inscrição no Programa de Treinamento em Desenvolvimento.
 
