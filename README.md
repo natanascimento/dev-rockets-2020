@@ -15,7 +15,7 @@ Seja bem-vindo ao time de Desenvolvimento da Teltec Solutions, é um prazer imen
 # **Objetivo do Programa** 📑
 A Teltec Solutions pretende fomentar a cultura de desenvolvimento, seja ela aplicada internamente em projetos que agreguem o nosso time como um todo, ou em projetos interligados com clientes, proporcionando um processo de melhoria contínua para nossos parceiros e clientes.
 
-O programa de Estágio em Desenvolvimento 2020 se baseia na metodologia Lean by Doing, onde os participantes terão a oportunidade de realizar um treinamento em um intervalo de tempo e posteriormente poderão colocar os conhecimentos em prática para soluções do mundo real propriciando aos discentes uma oportunidade de alavancagem profissional em desenvolvimento de aplicações robustas utilizando  tecnologias que possuem um forte crescimento no mercado. O programa possui um cronograma inicial de 14 semanas em que a cada duas semanas ocorre um desafio diferente, aplicando as técnicas em uma solução especificada pelo time.  
+O programa de Estágio em Desenvolvimento 2020 se baseia na metodologia Lean by Doing, onde os participantes terão a oportunidade de realizar um treinamento em um intervalo de tempo e posteriormente poderão colocar os conhecimentos em prática para soluções do mundo real propriciando aos discentes uma oportunidade de alavancagem profissional em desenvolvimento de aplicações robustas utilizando tecnologias que possuem um forte crescimento no mercado. O programa possui um cronograma inicial de 13 semanas em que a cada duas semanas ocorre um desafio diferente, aplicando as técnicas em uma solução especificada pelo time.  
 
 </br> 
 
@@ -96,7 +96,7 @@ Com isto, este módulo tem como objetivo realizar o nivelamento dos participante
 - NodeJS;
 - Angular;
 
-Serão levantados alguns assuntos pertinentes a cada linguagem e frameworks próprios da linguagem, como por exemplo, a utilização do Django no Python e conceitos por trás da sua estrutura MVT ou como por exemplo, realizar inserção de dados em bancos relacionais ou não relacionais utilizando as linguagens Python e JavaScript. 
+Serão levantados alguns assuntos pertinentes a cada linguagem e frameworks próprios da linguagem, como por exemplo, a utilização do Django no Python e conceitos por trás da sua arquitetura MVT ou como por exemplo, realizar inserção de dados em bancos relacionais ou não relacionais utilizando as linguagens Python e JavaScript. 
 
 Conforme a nossa agenda, na segunda semana do Módulo 2 será realizado o nosso desafio, esta metodologia visa a fixação dos conceitos vistos na semana anterior facilitando a aprendizagem de todos e auxiliando no processo de aprendizagem contínua.
 
@@ -119,7 +119,7 @@ A ideia principal é fomentar e fixar a utilização de técnicas para a melhori
 ## **<a href="">Módulo 4️⃣ - Infraestrutura</a>**
 Os desenvolvedores devem conhecer muito bem as aplicações que desenvolvem, para isso é ideal que os mesmos conheçam os ambientes onde sua aplicação estão rodando, sejam elas para On-Premises ou em Cloud, pensando nisso criamos este módulo abordando os principais conceitos de infraestrutura desde conceitos generalizados até conhecimentos específicos sobre determinados serviços, como por exemplo, a utilização do Azure Pipelines para compilar, realizar teste e implementar com CI/CD. 
 
-Este módulo estará dividido em assuntos referentes a redes de modo geral e assuntos referentes a Cloud especificamente, com conteúdos específicos que serão abordados para a melhoria nos processos de desenvolvimento, que podem colaborar na gestão dos projetos. 
+Este módulo estará dividido em assuntos referentes a redes de modo geral e assuntos referentes a Cloud, com conteúdos específicos que serão abordados para a melhoria nos processos de desenvolvimento, que podem colaborar na gestão dos projetos. 
 
 </br>
 
@@ -167,7 +167,7 @@ Neste módulo teremos como intuito abordar diversas aplicações de modo a integ
 </br>
 
 ## **<a href="">Módulo 6️⃣ - Dados</a>**
-Todas as nossa ações diárias geram uma certa quantidade de dados, e um estudo divulgado pela ***<a href="https://www.idc.com" >IDC</a>*** afirma que a produção de dados dobra a cada dois anos, com isso geramos mais dados do que processamos e analisamos, baseado nesses fatos criamos este módulo para desmitificar os processos de coleta, análise e visualização dos dados, facilitando assim a criação de estruturas mais claras onde conseguimos consumir e processar dados de forma a desenvolver tomadas de decisões baseadas em dados.
+Todas as nossa ações diárias geram uma certa quantidade de dados, e um estudo divulgado pela ***<a href="https://www.idc.com" >IDC</a>*** afirma que a produção de dados dobra a cada dois anos, com isso geramos mais dados do que processamos e analisamos, baseado nesses fatos criamos este módulo para desmitificar os processos de coleta, análise e visualização dos dados, facilitando assim a criação de estruturas mais claras onde conseguimos consumir e processar dados de forma a desenvolver tomadas de decisões mais eficientes.
 
 Este módulo tratará de todo o contexto por trás das manipulações de dados, desde análises exploratórias até visualização dos dados utilizando ferramentas robustas e aquecidas no mercado. 
 
@@ -189,7 +189,7 @@ Este módulo tratará de todo o contexto por trás das manipulações de dados, 
 </br>
 
 ## **<a href="">Módulo 7️⃣ - DevOps</a>**
-Conforme as aplicações vão tomando forma e tendo seus processos de escalabilidade, as questões de entrega e integração ficam cada vez mais complexa, pensando dedicamos um tempo neste módulo pensando no melhor para todos os participantes, pois a cultura DevOps é muito utilizada para realizar a união de pessoas, processos e tecnologias fornecendo soluções de ponta com um alto potencial de crescimento. Equipes adotam a cultura  focando no alto desempenho, melhoria nos processos, rapidez na entrega e na **SATISFAÇÃO DO CLIENTE**.
+Conforme as aplicações vão tomando forma e tendo seus processos de escalabilidade, as questões de entrega e integração ficam cada vez mais complexa, a partir deste contexto dedicamos um tempo neste módulo pensando no melhor para todos os participantes, pois a cultura DevOps é muito utilizada para realizar a união de pessoas, processos e tecnologias fornecendo soluções de ponta com um alto potencial de crescimento. Equipes adotam a cultura  focando no alto desempenho, melhoria nos processos, rapidez na entrega e na **SATISFAÇÃO DO CLIENTE (Customer at the Core)**.
 
 Este módulo mostrará de forma geral, boas práticas utilizando a cultura DevOps, as melhores ferramentas para realizar um deploy de uma aplicação, orquestração utilizando Kubernetes e gerenciamento de microservicos.
 
@@ -205,7 +205,7 @@ Os conteúdos informados anteriormente terão como propósito a explanação das
 </br>
 
 # **Módulos Públicos** 📋
-Apenas os módulos citado abaixo serão liberados para treinamento interno:
+Apenas os módulos citados abaixo serão liberados para treinamento interno:
 
 - **Módulo 3️⃣ - Cultura de Desenvolvimento**
 - **Módulo 5️⃣ - Programa Cisco DevNet**
